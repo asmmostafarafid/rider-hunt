@@ -1,0 +1,15 @@
+.bg-banner{
+    background-image: url(../../image/home1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    padding: 10px 0;
+}
+.home-area{
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
