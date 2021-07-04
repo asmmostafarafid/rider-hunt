@@ -1,6 +1,6 @@
 # Rider Hunt
 
-Live site : 
+Live site : https://stoic-neumann-4b37d0.netlify.app/
 
 
 
